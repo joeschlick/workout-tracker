@@ -53,7 +53,7 @@ If you have any questions about the repo, open an issue or contact [joeschlick](
 
 Repository link: https://github.com/joeschlick/workout-tracker
 
-Deployed application link: https://sheltered-inlet-81142.herokuapp.com/stats
+Deployed application link: https://sheltered-inlet-81142.herokuapp.com
 
 ## Media:
 
